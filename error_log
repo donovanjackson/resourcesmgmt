@@ -1,0 +1,115 @@
+[07-May-2018 00:14:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php:10
+Stack trace:
+#0 /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php(10): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php(341): connectToDB()
+#2 /home/h7d9itblfvbk/public_html/resourcesmgmt/index.php(23): checkCred()
+#3 {main}
+  thrown in /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php on line 10
+[07-May-2018 00:14:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php:10
+Stack trace:
+#0 /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php(10): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php(341): connectToDB()
+#2 /home/h7d9itblfvbk/public_html/resourcesmgmt/index.php(23): checkCred()
+#3 {main}
+  thrown in /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php on line 10
+[07-May-2018 00:14:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php:10
+Stack trace:
+#0 /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php(10): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php(341): connectToDB()
+#2 /home/h7d9itblfvbk/public_html/resourcesmgmt/index.php(23): checkCred()
+#3 {main}
+  thrown in /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php on line 10
+[07-May-2018 00:19:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php:10
+Stack trace:
+#0 /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php(10): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php(341): connectToDB()
+#2 /home/h7d9itblfvbk/public_html/resourcesmgmt/index.php(23): checkCred()
+#3 {main}
+  thrown in /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php on line 10
+[07-May-2018 00:19:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php:10
+Stack trace:
+#0 /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php(10): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php(341): connectToDB()
+#2 /home/h7d9itblfvbk/public_html/resourcesmgmt/index.php(23): checkCred()
+#3 {main}
+  thrown in /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php on line 10
+[07-May-2018 00:24:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2005] Unknown MySQL server host 'djackson1991' (0) in /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php:10
+Stack trace:
+#0 /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php(10): PDO->__construct('mysql:host=djac...', 'root', '')
+#1 /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php(341): connectToDB()
+#2 /home/h7d9itblfvbk/public_html/resourcesmgmt/index.php(23): checkCred()
+#3 {main}
+  thrown in /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php on line 10
+[07-May-2018 00:25:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php:10
+Stack trace:
+#0 /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php(10): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php(341): connectToDB()
+#2 /home/h7d9itblfvbk/public_html/resourcesmgmt/index.php(23): checkCred()
+#3 {main}
+  thrown in /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php on line 10
+[07-May-2018 00:26:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2005] Unknown MySQL server host 'h7d9itblfvbk' (0) in /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php:10
+Stack trace:
+#0 /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php(10): PDO->__construct('mysql:host=h7d9...', 'root', '')
+#1 /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php(341): connectToDB()
+#2 /home/h7d9itblfvbk/public_html/resourcesmgmt/index.php(23): checkCred()
+#3 {main}
+  thrown in /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php on line 10
+[07-May-2018 01:39:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'ip-107-180-57-9.ip.secureserver.net' (using password: NO) in /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php:10
+Stack trace:
+#0 /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php(10): PDO->__construct('mysql:host=107....', 'root', '')
+#1 /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php(341): connectToDB()
+#2 /home/h7d9itblfvbk/public_html/resourcesmgmt/index.php(23): checkCred()
+#3 {main}
+  thrown in /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php on line 10
+[07-May-2018 01:39:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'ip-107-180-57-9.ip.secureserver.net' (using password: NO) in /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php:10
+Stack trace:
+#0 /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php(10): PDO->__construct('mysql:host=107....', 'root', '')
+#1 /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php(341): connectToDB()
+#2 /home/h7d9itblfvbk/public_html/resourcesmgmt/index.php(23): checkCred()
+#3 {main}
+  thrown in /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php on line 10
+[09-May-2018 03:53:45 UTC] PHP Fatal error:  Uncaught PDOException: invalid data source name in /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php:10
+Stack trace:
+#0 /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php(10): PDO->__construct('localhost,dbnam...', 'djackson1991', '52991Nov@')
+#1 /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php(341): connectToDB()
+#2 /home/h7d9itblfvbk/public_html/resourcesmgmt/index.php(23): checkCred()
+#3 {main}
+  thrown in /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php on line 10
+[09-May-2018 03:54:21 UTC] PHP Fatal error:  Uncaught PDOException: invalid data source name in /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php:10
+Stack trace:
+#0 /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php(10): PDO->__construct('localhost,dbnam...', 'djackson1991', '52991Nova')
+#1 /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php(341): connectToDB()
+#2 /home/h7d9itblfvbk/public_html/resourcesmgmt/index.php(23): checkCred()
+#3 {main}
+  thrown in /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php on line 10
+[09-May-2018 03:55:56 UTC] PHP Fatal error:  Uncaught PDOException: invalid data source name in /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php:10
+Stack trace:
+#0 /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php(10): PDO->__construct('localhost,dbnam...', 'djackson1991', '52991Nova')
+#1 /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php(341): connectToDB()
+#2 /home/h7d9itblfvbk/public_html/resourcesmgmt/index.php(23): checkCred()
+#3 {main}
+  thrown in /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php on line 10
+[09-May-2018 03:58:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'djackson1991'@'localhost' to database 'csm2' in /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php:10
+Stack trace:
+#0 /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php(10): PDO->__construct('mysql:host=loca...', 'djackson1991', '52991Nova')
+#1 /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php(341): connectToDB()
+#2 /home/h7d9itblfvbk/public_html/resourcesmgmt/index.php(23): checkCred()
+#3 {main}
+  thrown in /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php on line 10
+[09-May-2018 03:59:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'djackson1991'@'localhost' (using password: YES) in /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php:10
+Stack trace:
+#0 /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php(10): PDO->__construct('mysql:host=loca...', 'djackson1991', '52991Nov@')
+#1 /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php(341): connectToDB()
+#2 /home/h7d9itblfvbk/public_html/resourcesmgmt/index.php(23): checkCred()
+#3 {main}
+  thrown in /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php on line 10
+[09-May-2018 04:06:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php:365
+Stack trace:
+#0 /home/h7d9itblfvbk/public_html/resourcesmgmt/index.php(23): checkCred()
+#1 {main}
+  thrown in /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php on line 365
+[09-May-2018 04:07:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php:365
+Stack trace:
+#0 /home/h7d9itblfvbk/public_html/resourcesmgmt/index.php(23): checkCred()
+#1 {main}
+  thrown in /home/h7d9itblfvbk/public_html/resourcesmgmt/mainFunctions.php on line 365

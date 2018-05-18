@@ -1,0 +1,336 @@
+html{
+	height:100%;
+}
+body{
+	height:100%;
+	width:100%;
+	min-width:1200px;
+	min-height:900px;
+
+}
+
+a{
+	text-decoration:none;
+	/*display:inline-block;
+	height:15px;*/
+}
+
+a:hover{
+	text-decoration:underline;
+}
+
+div#container{
+	min-height:900px;
+	float:left;
+	width:95%;
+	border-style:double;
+	border-width: 50px;
+	border-color:#234;
+	
+}
+div#banner{
+	height:80%;
+	font-size:700%;
+	/*background-image:url('../img/blue_banner2.png');	
+	background-size:cover;*/
+	background-image:url('../img/infinity_lrg.jpg');	
+	background-size:90% 125px;
+	background-repeat:no-repeat;
+	background-position:center;
+}
+
+
+div.cActvity{
+	max-height:300px;
+	overflow:auto;
+}
+
+
+
+div.caReqKey{
+	display:inline-block;
+	width:5%;
+}
+
+div.caReqValue{
+	display:inline-block;
+	width:25%;
+}
+
+div#client_activity{
+	margin:2%;
+	width:92%;
+	padding:.5% 2% .5% 2%;
+	border-style:groove;
+	border-width:1px;
+}
+
+div#client_activity h3{
+	text-decoration:underline;
+}
+
+div.client_manage hr{
+	width:95%;
+	margin:10px;
+	text-align:center;
+}
+
+div#clients_contacts textarea{
+vertical-align:middle;
+}
+button.deleteEntry:hover{
+	text-decoration:underline;
+	cursor:pointer;
+	color:#a00;
+}
+button.delete_contact{
+	margin-left:40px;
+	margin-top:20px;
+}
+
+.displayRS{
+float:right;
+}
+div.entries{
+	float:left;
+	width:100%;
+	/*width:98%;
+	margin:1%;
+	border-radius:20px;*/
+	border-style:groove;
+	border-width:1px;
+	
+}
+div.entries h2{
+	text-align:left;
+}
+div#errorBanner{
+	position:absolute;
+	top:0px;
+	left:0px;
+	color:fff;
+	background-color:#f00;
+	width:100%;
+	text-align:center;
+	min-height:25px;
+}
+
+div#errorBanner div#eMessage{
+
+}
+
+div#firstTimeMessage{
+	color:#a00;
+}
+
+#header{
+height:30%;
+min-height:150px;
+
+}
+
+div#loggedIn{
+	float:right;
+}
+div#maincontent{
+	/*float:left;*/
+}
+
+div#menu{
+float:left;
+}
+
+div.menuBox{
+	display:inline-block;
+	border:1px;
+	border-style:groove;
+	border-color:aaa;
+	margin:0px;
+}
+
+div.menuBox:hover{
+	background-color:#282;
+}
+
+div.menuBox span{
+	
+	margin:0px 30px;
+}
+
+div.menuBox span a{
+	color:#000;
+	text-decoration:none;
+}
+
+div.newEntryInfo-Threes{
+	max-width:31%;
+	min-width:30%;
+	float:left;
+	margin:1%;
+}
+
+div.newEntryInfo-Fours{
+	width:21%;
+	float:left;
+	margin:1%;
+}
+
+div.newEntryInfo span.input_name{
+}
+
+div.newEntryInfo span.input_value{
+}
+
+div.nextPage{
+	float:left;
+	width:100%;
+	text-align:center;
+}
+
+div.pageListings div.searchbar{
+	text-align:right;
+}
+
+div.pageListings  div#mgmtTools{
+	width:80%;
+	
+}
+
+div.pageListings div#mgmtTools button#createUser{
+	background:none;
+}
+
+
+div.reportsPageHSection{
+	width:100%;
+}
+
+input.requestSkill:checked{
+	background-color:#5a5;
+	color:#000;
+}
+
+.requiredInput{
+	border-style:solid;
+	border-color:#a00;
+}
+
+.sectionTitle{
+	width:100%;
+	text-align:left;
+}
+
+div.side-frame{
+	width:10%;
+	height:100%;
+	background-color:#55d;
+}
+
+.skillCategory{
+	text-align:center;
+}
+
+div.submitDiv{
+margin:20px 0px;
+float:left;
+width:100%;
+}
+
+
+button.tglBtn{
+	padding:1px 0px;
+	margin:0px;
+	width:100%;
+	min-height:30px;
+}
+
+button.tglBtn.checked{
+	background-color: #5a5;
+}
+
+
+input.tglCB{	
+visibility:hidden;
+display:none;
+}
+
+
+label.tglLabel{
+	display:inline-block;
+	width:100%;
+	padding:2px 0px 3px;
+}
+
+
+div.toggleCheckboxes{
+	max-height:210px;
+	overflow:auto;
+}
+
+
+div.upload_section{
+	border-style:solid;
+	border-width:1px;
+	border-color:#bbb;
+	padding-left:10px;
+	padding-bottom:10px;
+}
+ul.viewingPageList{
+	list-style:none;
+}
+
+ul.viewingPageList input{
+	border:0px;
+}
+
+ul.viewingPageList textarea{
+	border:0px;
+}
+
+ul.viewingPageList li{
+	margin-bottom:20px
+}
+
+div.viewingPageBox{
+	max-height:210px;
+	overflow:auto;
+}
+
+
+#footer{
+	float:left;
+	height:-95%;
+}
+
+
+div.table-framer {
+	border:3px;
+	border-style:solid;
+	border-color:#aaf;
+	width:97.7%;
+	padding:1%;
+	border-spacing:0px;
+	border-radius:15px;
+	background-color:#eee;
+	
+}
+
+table.table-dataTable > tbody > td{
+	max-height:75px;
+	overflow-y:hidden;
+	white-space: nowrap; 
+}
+
+table.table-dataTable th,td{
+	border:3px;
+	empty-cells:show;
+	border-style:groove;
+	border-color:#bbb;
+	/*overflow:hidden;*/
+	background-color:#fff;
+}
+
+input[type=submit]{
+	cursor:pointer;
+}
+
